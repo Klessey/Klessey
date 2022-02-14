@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Klessey
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in Tg-Python Developments
-- 🌱 I’m currently learning MS in UK
-- 📫 How to reach me @Klessey in Telegram
+- 🌱 I’m currently learning ....
+- 📫 How to reach me @TheVenomXD on telegram
 
 <!---
 Klessey/Klessey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
